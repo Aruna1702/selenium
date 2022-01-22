@@ -12,7 +12,7 @@ public class CalculatorTest {
 
 	@Test
 	public void testSub1() {
-		assertEquals(10,cal.sub1(5, 5));
+		assertEquals(0,cal.sub1(5, 5));
 	}
 
 }
